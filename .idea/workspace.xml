@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6370c9f-0ff3-4b79-8576-439f50486a05" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/kiqv/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/kiqv/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiqv/src/main/java/Jaonua/kiqv/KiqvApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/kiqv/src/main/java/Jaonua/kiqv/KiqvApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiqv/src/main/java/Jaonua/kiqv/callBackFormat/Greeting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiqv/src/main/java/Jaonua/kiqv/controller/DataGet.java" beforeDir="false" afterPath="$PROJECT_DIR$/kiqv/src/main/java/Jaonua/kiqv/controller/DataGet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiqv/src/main/java/Jaonua/kiqv/controller/FileHandUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/kiqv/src/main/java/Jaonua/kiqv/controller/FileHandUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiqv/src/main/java/Jaonua/kiqv/timeTask/ScheduledTasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/kiqv/src/main/java/Jaonua/kiqv/timeTask/ScheduledTasks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiqv/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/kiqv/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiqv/src/test/java/Jaonua/kiqv/KiqvApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/kiqv/src/test/java/Jaonua/kiqv/KiqvApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/kiqv" />
+  </component>
+  <component name="ProjectId" id="1acJ1TMfQle8DIbTUqLqrBfIlft" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6370c9f-0ff3-4b79-8576-439f50486a05" name="Default Changelist" comment="" />
+      <created>1587028733587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587028733587</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="631" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1587028738810">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="631" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587028738810" />
+  </component>
+</project>
